@@ -1,3 +1,5 @@
+#pragma once
 #include <string>
+using namespace std;
 
-std::string hello();
+int compIgnore(const string& s1, const string& s2);
